@@ -1,5 +1,4 @@
 package rw.ac.rca.classaapp.dto;
-
 import com.sun.istack.NotNull;
 
 public class CreateStudentDTO {
